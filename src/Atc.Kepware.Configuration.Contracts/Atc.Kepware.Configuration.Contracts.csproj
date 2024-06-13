@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Atc" Version="2.0.478" />
+    <ProjectReference Include="..\..\..\atc\src\Atc\Atc.csproj" />
   </ItemGroup>
 
 </Project>
